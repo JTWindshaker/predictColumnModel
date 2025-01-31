@@ -4,7 +4,7 @@ Este proyecto utiliza un modelo de **Árbol de Decisión** para realizar predicc
 
 ## 📍 Origen del Modelo
 
-El modelo fue desarrollado en el siguiente notebook de Google Colab:
+El modelo fue desarrollado en el siguiente notebook de Google Colab (Suministrado por el docente):
 
 🔗 [Google Colab - Modelo de Árbol de Decisión](https://colab.research.google.com/drive/1K16cQzeSptOwU81W3i8ZsziQcjm35Q0F?usp=sharing)
 

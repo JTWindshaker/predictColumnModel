@@ -25,3 +25,5 @@ La API de esta aplicación consume el modelo previamente entrenado para realizar
 ## 📂 Código Relacionado
 
 🔹 **[Aplicación Móvil](https://github.com/JTWindshaker/predictColumn)** – Implementación del cliente móvil que consume la API y permite a los usuarios realizar predicciones desde su dispositivo.
+🔹 **[Modelo: modelo_columna.bin](https://github.com/JTWindshaker/predictColumnModel/blob/main/Arboles_Columna_Vertebral.ipynb)** – Notebook de Google Colab en GitHub con el código completo para la creación, entrenamiento y evaluación del modelo de Árbol de Decisión utilizado en la aplicación.
+🔹 **[ApiRest](https://github.com/JTWindshaker/predictColumnApi)** – Servicio backend encargado de procesar las solicitudes de la aplicación móvil. Implementa el modelo de Machine Learning para realizar predicciones en tiempo real y devolver los resultados al usuario.
